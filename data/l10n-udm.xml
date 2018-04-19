@@ -107,11 +107,11 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntProductName" localized="Nombre de Producto"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntDescription" localized="Descrición"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntDescriptionLong" localized="Descripción Larga"/>
-    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntPriceDetail" localized="Tetxto Detalle de Precio"/>
+    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntPriceDetail" localized="Texto Detalle de Precio"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntIngredients" localized="Ingredientes"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntUniqueIngred" localized="Ingredientes Únicos"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntSpecialInstr" localized="Instrucciones Especiales"/>
-    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="Advertencias" localized="PcntWarnings"/>
+    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntWarnings" localized="Advertencias"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntDirections" localized="Instrucciones"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntTermsConditions" localized="Términos y Condiciones"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="PcntDeliveryInfo" localized="Información de Despacho"/>
@@ -239,7 +239,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.StatusItem" fieldName="description" locale="es"
                                       pkValue="ShipScheduled" localized="Programado"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.StatusItem" fieldName="description" locale="es"
-                                      pkValue="ShipPicked" localized="Pickeado"/>
+                                      pkValue="ShipPicked" localized="Recogido"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.StatusItem" fieldName="description" locale="es"
                                       pkValue="ShipPacked" localized="Embalado"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.StatusItem" fieldName="description" locale="es"
@@ -460,7 +460,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
                                       pkValue="Payroll" localized="Administrador de Nómina"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
-                                      pkValue="Picker" localized="Pickeador"/>
+                                      pkValue="Picker" localized="Recogedor"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
                                       pkValue="ProductionManager" localized="Gerente de Producción"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
@@ -478,7 +478,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
                                       pkValue="Spouse" localized="Cónyuge"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
-                                      pkValue="Stocker" localized="Stockeador"/>
+                                      pkValue="Stocker" localized="Reponedor"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
                                       pkValue="SupplierAgent" localized="Agente Proveedor"/>
     <moqui.basic.LocalizedEntityField entityName="mantle.party.RoleType" fieldName="description" locale="es"
@@ -842,7 +842,7 @@ along with this software (see the LICENSE.md file). If not, see
                                       pkValue="AttNote" localized="Nota"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttOtherObligation" localized="Otra Obligación"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttSales" localized="Ventas"/>
-    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttTaxDue" localized="Impuestos Adeudado"/>
+    <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttTaxDue" localized="Impuestos Adeudados"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttPayment" localized="Pago"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttDisbursement" localized="Desembolso"/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="AttReceipt" localized="Recepción"/>

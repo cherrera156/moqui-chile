@@ -70,6 +70,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Add Invoice Item" locale="es" localized="Agregar Item de Cobro"/>
     <moqui.basic.LocalizedMessage original="Invoice Total" locale="es" localized="Total Orden de Cobro"/>
     <moqui.basic.LocalizedMessage original="Amount" locale="es" localized="Monto"/>
+    <moqui.basic.LocalizedMessage original="Amount Included" locale="es" localized="Cantidad Incluída"/>
     <moqui.basic.LocalizedMessage original="Override GL Account" locale="es" localized="Sustituir Cuenta Contable por defecto"/>
     <moqui.basic.LocalizedMessage original="Payment Applications" locale="es" localized="Pagos Aplicados"/>
     <moqui.basic.LocalizedMessage original="Applied Payments ${ec.l10n.formatCurrency(appliedPaymentsTotal, invoice.currencyUomId)}, Unpaid ${ec.l10n.formatCurrency(unpaidTotal, invoice.currencyUomId)}" locale="es"
@@ -136,6 +137,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Post Depreciation for Fixed Assets" locale="es"
                                   localized="Contabilizar Depreciación para Activos Fijos"/>
     <moqui.basic.LocalizedMessage original="Recalculate Amounts" locale="es" localized="Recalcular Montos"/>
+    <moqui.basic.LocalizedMessage original="Amount Included" locale="es" localized="Cantidad Incluída"/>
     <moqui.basic.LocalizedMessage original="Close Period" locale="es" localized="Cerrar Período"/>
     <moqui.basic.LocalizedMessage original="Accounts for ${timePeriod.periodName} [${timePeriod.timePeriodId}]" locale="es" localized="Cuentas para ${timePeriod.periodName} [${timePeriod.timePeriodId}]"/>
     <moqui.basic.LocalizedMessage original="GL Account" locale="es" localized="Cuenta Contable"/>
@@ -209,8 +211,44 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Approve Warnings" locale="es" localized="Advertencias Aprobación"/>
     <moqui.basic.LocalizedMessage original="Approve Order Anyway" locale="es" localized="Aprobar Orden de todas formas"/>
     <moqui.basic.LocalizedMessage original="Return" locale="es" localized="Devolución"/>
+    <moqui.basic.LocalizedMessage original="Find Assets" locale="es" localized="Buscar Activos"/>
+    <moqui.basic.LocalizedMessage original="Category" locale="es" localized="Categoría"/>
+    <moqui.basic.LocalizedMessage original="Features" locale="es" localized="Características"/>
+    <moqui.basic.LocalizedMessage original="Feature" locale="es" localized="Característica"/>
 
-    <!-- 
+    <moqui.basic.LocalizedMessage original="Content List" locale="es" localized="Lista de Contenidos"/>
+    <moqui.basic.LocalizedMessage original="Upload Content" locale="es" localized="Subir Contenido"/>
+    <moqui.basic.LocalizedMessage original="New by Location" locale="es" localized="Nuevo por Ubicación"/>
+    <moqui.basic.LocalizedMessage original="New HTML Content" locale="es" localized="Nuevo Contenido HTML"/>
+
+
+    <moqui.basic.LocalizedMessage original="Sequence Num" locale="es" localized="Número de Secuencia"/>
+    <moqui.basic.LocalizedMessage original="Assoc. Type" locale="es" localized="Tipo Asociación"/>
+    <moqui.basic.LocalizedMessage original="Add Association" locale="es" localized="Agregar Asociación"/>
+    <moqui.basic.LocalizedMessage original="Feature Group" locale="es" localized="Grupo de Características"/>
+    <moqui.basic.LocalizedMessage original="Active" locale="es" localized="Activo"/>
+    <moqui.basic.LocalizedMessage original="Reset to Default" locale="es" localized="Resetear a Valor por Defecto"/>
+    <moqui.basic.LocalizedMessage original="Save Columns" locale="es" localized="Guardar Columnas"/>
+    <moqui.basic.LocalizedMessage original="Go" locale="es" localized="Ir"/>
+    <moqui.basic.LocalizedMessage original="Page" locale="es" localized="Página"/>
+
+
+    <moqui.basic.LocalizedMessage original="New Purchase" locale="es" localized="Nueva Compra"/>
+    <moqui.basic.LocalizedMessage original="Entry Date" locale="es" localized="Fecha de Ingreso"/>
+    <moqui.basic.LocalizedMessage original="Supplier" locale="es" localized="Proveedor"/>
+
+    <moqui.basic.LocalizedMessage original="Payment Method ID" locale="es" localized="ID Método de Pago"/>
+    <moqui.basic.LocalizedMessage original="Payment ID" locale="es" localized="ID Pago"/>
+    <moqui.basic.LocalizedMessage original="Effective Date" locale="es" localized="Fecha Efectiva"/>
+    <moqui.basic.LocalizedMessage original="Settlement Date" locale="es" localized="Fecha Liquidación"/>
+    <moqui.basic.LocalizedMessage original="Applied Total" locale="es" localized="Total Aplicado"/>
+    <moqui.basic.LocalizedMessage original="Unapplied Total" locale="es" localized="Total No Aplicado"/>
+    <moqui.basic.LocalizedMessage original="For Invoice ID" locale="es" localized="Para Factura ID"/>
+    <moqui.basic.LocalizedMessage original="Original Currency Amount" locale="es" localized="Monto en Moneda Original"/>
+    <moqui.basic.LocalizedMessage original="Original Currency Uom ID" locale="es" localized="ID UoM Moneda Original"/>
+
+
+    <!--
     <moqui.basic.LocalizedMessage original="" locale="es" localized=""/>
     <moqui.basic.LocalizedEntityField entityName="" fieldName="" locale="es" pkValue="" localized=""/>
     <moqui.basic.LocalizedEntityField entityName="moqui.basic.Enumeration" fieldName="description" locale="es" pkValue="" localized=""/>

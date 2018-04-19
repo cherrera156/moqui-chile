@@ -175,7 +175,7 @@ along with this software (see the LICENSE.md file). If not, see
                                   localized="Definir Representante Pago a Proveedores"/>
     <moqui.basic.LocalizedMessage original="New Space" locale="es" localized="Nuevo Espacio"/>
     <moqui.basic.LocalizedMessage original="Root Page" locale="es" localized="Página Raíz"/>
-    <moqui.basic.LocalizedMessage original="Restrict View" locale="es" localized="Restringir Ver"/>
+    <moqui.basic.LocalizedMessage original="Restrict View" locale="es" localized="Restringir Vista"/>
     <moqui.basic.LocalizedMessage original="Restrict Update" locale="es" localized="Restringir Actualización"/>
     <moqui.basic.LocalizedMessage original="WikiSpace" locale="es" localized="Espacios Wiki"/>
 

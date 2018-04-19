@@ -174,7 +174,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Close Balance Counted" locale="es" localized="Saldo cierre contado"/>
     <moqui.basic.LocalizedMessage original="Difference of ${tillShift.closeBalanceCounted-tillShift.closeBalanceExpected} will be registered." locale="es" localized="Se registrará diferencia de ${tillShift.closeBalanceCounted-tillShift.closeBalanceExpected}."/>
     <moqui.basic.LocalizedMessage original="Stop Shift" locale="es" localized="Detener turno"/>
-    <moqui.basic.LocalizedMessage original="Cannot stop till shift ${tillShiftId} in status ${tillShift.statusId}" locale="es" localized="No se puede deterner turno ${tillShiftId} en estado ${tillShift.statusId}"/>
+    <moqui.basic.LocalizedMessage original="Cannot stop till shift ${tillShiftId} in status ${tillShift.statusId}" locale="es" localized="No se puede detener turno ${tillShiftId} en estado ${tillShift.statusId}"/>
     <moqui.basic.LocalizedMessage original="Difference upon closing" locale="es" localized="Diferencia al cierre"/>
     <moqui.basic.LocalizedMessage original="Balance Difference" locale="es" localized="Diferencia de Saldo"/>
     <moqui.basic.LocalizedMessage original="Till Shift" locale="es" localized="Turno Caja"/>
@@ -182,6 +182,28 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Create Return" locale="es" localized="Crear Devolución"/>
     <moqui.basic.LocalizedMessage original="Edit Return" locale="es" localized="Editar Devolución"/>
     <moqui.basic.LocalizedMessage original="Find Return" locale="es" localized="Encontrar Devolución"/>
+
+    <moqui.basic.LocalizedMessage original="Lot" locale="es" localized="Lote"/>
+    <moqui.basic.LocalizedMessage original="Quantity Difference" locale="es" localized="Diferencia Cantidades"/>
+    <moqui.basic.LocalizedMessage original="Variance Reason" locale="es" localized="Motivo Diferencia"/>
+    <moqui.basic.LocalizedMessage original="Record" locale="es" localized="Guardar"/>
+    <moqui.basic.LocalizedMessage original="No Inventories in Progress" locale="es" localized="No Hay Inventarios en Progreso"/>
+    <moqui.basic.LocalizedMessage original="No results found" locale="es" localized="No hay datos"/>
+
+    <moqui.basic.LocalizedMessage original="Add Promo Code" locale="es" localized="Agregar Código Promoción"/>
+    <moqui.basic.LocalizedMessage original="New Credit Card" locale="es" localized="Nueva Tarjeta de Crédito"/>
+    <moqui.basic.LocalizedMessage original="Set Shipping Address and Info" locale="es" localized="Nueva Dirección de Envío"/>
+    <moqui.basic.LocalizedMessage original="Quick Add Items" locale="es" localized="Adición Rápida de Items"/>
+    <moqui.basic.LocalizedMessage original="Verified" locale="es" localized="Verificado"/>
+    <moqui.basic.LocalizedMessage original="Trust" locale="es" localized="Confianza"/>
+    <moqui.basic.LocalizedMessage original="Trust: Verified" locale="es" localized="Confianza: Verificada"/>
+    <moqui.basic.LocalizedMessage original="Standard Cost" locale="es" localized="Costo Estándar"/>
+    <moqui.basic.LocalizedMessage original="Unit Amount" locale="es" localized="Nro. Unidades"/>
+    <moqui.basic.LocalizedMessage original="Quantity Reason" locale="es" localized="Razón por Cantidades"/>
+    <moqui.basic.LocalizedMessage original="Shipment Method" locale="es" localized="Método de Envío"/>
+    <moqui.basic.LocalizedMessage original="Customer Pick Up" locale="es" localized="Recogido por Cliente"/>
+    <moqui.basic.LocalizedMessage original="Customer Pick Up" locale="es" localized="Recogido por Cliente"/>
+
 
     <!--
     <moqui.basic.LocalizedMessage original="" locale="es" localized=""/>

@@ -23,7 +23,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Customer" locale="es" localized="Cliente"/>
     <moqui.basic.LocalizedMessage original="Customer: " locale="es" localized="Cliente: "/>
     <moqui.basic.LocalizedMessage original="Sales" locale="es" localized="Ventas"/>
-    <moqui.basic.LocalizedMessage original="Picking" locale="es" localized="Picking"/>
+    <moqui.basic.LocalizedMessage original="Picking" locale="es" localized="Recolección"/>
     <moqui.basic.LocalizedMessage original="Shipping" locale="es" localized="Despacho"/>
     <moqui.basic.LocalizedMessage original="Manage" locale="es" localized="Gestionar"/>
     <moqui.basic.LocalizedMessage original="Catalog" locale="es" localized="Catálogo"/>
@@ -82,6 +82,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Feature Type" locale="es" localized="Tipo Característica"/>
     <moqui.basic.LocalizedMessage original="Categories" locale="es" localized="Categorías"/>
     <moqui.basic.LocalizedMessage original="Feature Groups" locale="es" localized="Grupos de Características"/>
+    <moqui.basic.LocalizedMessage original="Feature Group" locale="es" localized="Grupo de Características"/>
     <moqui.basic.LocalizedMessage original="Features" locale="es" localized="Características"/>
     <moqui.basic.LocalizedMessage original="Groups" locale="es" localized="Grupos"/>
     <moqui.basic.LocalizedMessage original="Products" locale="es" localized="Productos"/>
@@ -129,7 +130,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Order ID" locale="es" localized="ID Orden"/>
     <moqui.basic.LocalizedMessage original="Start Date" locale="es" localized="Fecha Inicio"/>
     <moqui.basic.LocalizedMessage original="Load ID" locale="es" localized="ID Carga"/>
-    <moqui.basic.LocalizedMessage original="New Picklist" locale="es" localized="Nueva Lista de Picking"/>
+    <moqui.basic.LocalizedMessage original="New Picklist" locale="es" localized="Nueva Lista de Recolección"/>
     <moqui.basic.LocalizedMessage original="Equipment" locale="es" localized="Equipamiento"/>
     <moqui.basic.LocalizedMessage original="Find Vendor" locale="es" localized="Encontrar Proveedor"/>
     <moqui.basic.LocalizedMessage original="New Feature Group" locale="es" localized="Nuevo Grupo de Características"/>
@@ -138,9 +139,10 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Category ID" locale="es" localized="ID Categoría"/>
     <moqui.basic.LocalizedMessage original="Category Type" locale="es" localized="Tipo de Categoría"/>
     <moqui.basic.LocalizedMessage original="Find Category" locale="es" localized="Encontrar Categoría"/>
-    <moqui.basic.LocalizedMessage original="Find Feature Group" locale="es" localized="Encontrar Grupo de Categorías"/>
+    <moqui.basic.LocalizedMessage original="Find Feature Group" locale="es" localized="Encontrar Grupo de Características"/>
     <moqui.basic.LocalizedMessage original="Clone Product" locale="es" localized="Clonar Producto"/>
     <moqui.basic.LocalizedMessage original="Associated" locale="es" localized="Relacionados"/>
+    <moqui.basic.LocalizedMessage original="Assoc. Type" locale="es" localized="Tipo Relación"/>
     <moqui.basic.LocalizedMessage original="Apply Feature" locale="es" localized="Aplicar Característica"/>
     <moqui.basic.LocalizedMessage original="Dimensions" locale="es" localized="Dimensiones"/>
     <moqui.basic.LocalizedMessage original="Add Dimension" locale="es" localized="Agregar Dimensión"/>
@@ -148,7 +150,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Add Identification" locale="es" localized="Agregar Identificación"/>
     <moqui.basic.LocalizedMessage original="Content" locale="es" localized="Contenido"/>
     <moqui.basic.LocalizedMessage original="Add Content" locale="es" localized="Agregar Contenido"/>
-    <moqui.basic.LocalizedMessage original="Feature" locale="es" localized="Cracterística"/>
+    <moqui.basic.LocalizedMessage original="Feature" locale="es" localized="Característica"/>
     <moqui.basic.LocalizedMessage original="Appl. Type" locale="es" localized="Tipo Aplicación"/>
     <moqui.basic.LocalizedMessage original="Value" locale="es" localized="Valor"/>
     <moqui.basic.LocalizedMessage original="Unit" locale="es" localized="Unidad"/>
@@ -224,6 +226,7 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Associated From" locale="es" localized="Asociado Desde"/>
     <moqui.basic.LocalizedMessage original="Selectable Features" locale="es" localized="Características Seleccionables"/>
     <moqui.basic.LocalizedMessage original="Create Variants" locale="es" localized="Crear Variantes"/>
+    <moqui.basic.LocalizedMessage original="Create All Variants" locale="es" localized="Crear Todas las Variantes"/>
 
 
     <moqui.basic.LocalizedMessage original="None" locale="es" localized="No hay"/>

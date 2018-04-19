@@ -17,6 +17,7 @@ along with this software (see the LICENSE.md file). If not, see
                               localized="Página ${curPageIndex + 1} de ${curPageMaxIndex + 1} (${context[listName + 'PageRangeLow']} - ${context[listName + 'PageRangeHigh']} de ${context[listName + 'Count']})"/>
     <moqui.basic.LocalizedMessage original="Owner" locale="es" localized="Dueño"/>
     <moqui.basic.LocalizedMessage original="Product" locale="es" localized="Producto"/>
+    <moqui.basic.LocalizedMessage original="Product Description" locale="es" localized="Descripción de Producto"/>
     <moqui.basic.LocalizedMessage original="Technician" locale="es" localized="Técnico"/>
     <moqui.basic.LocalizedMessage original="Application" locale="es" localized="Aplicación"/>
     <moqui.basic.LocalizedMessage original="Applications" locale="es" localized="Aplicaciones"/>
